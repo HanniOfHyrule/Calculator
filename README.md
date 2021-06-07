@@ -1,0 +1,3 @@
+# Calculator
+built with freeCodeCamp tutorial 
+My first project with JavaScript. Work in progress...
